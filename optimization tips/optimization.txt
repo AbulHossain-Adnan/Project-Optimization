@@ -1,0 +1,16 @@
+Tips:
+command:php artisan route:cache  :ay command run korle amader project route gulake cache kore rakhbe.so file laod houar shomoy
+route gula cache theke sohoje read korte parbe.
+=============================================================================================
+tips:2
+command:php artisan config:cache
+================================================================================================
+tips:3
+command:php artisan view:cache
+=================================================================================================
+tips:4
+direct env folder use na kora.config theke korle valo hoi
+==============================================================================================
+
+tips:5
+project update kore abar production level a rakhar jonno cache clear kore rakhte hobe
