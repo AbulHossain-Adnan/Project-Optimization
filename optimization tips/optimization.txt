@@ -14,3 +14,7 @@ direct env folder use na kora.config theke korle valo hoi
 
 tips:5
 project update kore abar production level a rakhar jonno cache clear kore rakhte hobe
+
+tips:6
+------
+clean code likhte hobe ,r extra unuse code delete kore dite hobe.
